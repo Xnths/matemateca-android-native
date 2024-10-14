@@ -17,6 +17,6 @@ Após configurar o ambiente do celular, no menu superior, procure por **Run > Ru
 
 [Práticas de UX](https://developers.google.com/ar/design)
 
-[AR Core - Getting Started] (https://developers.google.com/ar/develop/getting-started)
+[AR Core - Getting Started](https://developers.google.com/ar/develop/getting-started)
 
-[Exemplos do SceneView] (https://github.com/SceneView/sceneview-android/tree/main/samples)
+[Exemplos do SceneView](https://github.com/SceneView/sceneview-android/tree/main/samples)
